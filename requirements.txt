@@ -1,0 +1,2 @@
+# 仅 GUI 需要；核心引擎（core/）零依赖，纯标准库 + ctypes
+customtkinter>=5.2.0
